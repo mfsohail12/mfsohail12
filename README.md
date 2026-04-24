@@ -2,7 +2,8 @@
 <h3 align="center">I’m currently an undergraduate Software Engineering student at McGill University</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on DegreePlanner<br>📫 How to reach me: mfsohail12@gmail.com<br><br>
+🔭 I’m currently working on [DegreePlanner](https://github.com/mfsohail12/DegreePlanner)
+<br>📫 How to reach me: mfsohail12@gmail.com<br><br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
